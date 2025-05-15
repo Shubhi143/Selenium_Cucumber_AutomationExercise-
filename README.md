@@ -5,12 +5,12 @@
 <body>
   <h1>Selenium Cucumber Automation Testing Exercise</h1>
 
-  <p>This project contains software automation testing exercises inspired by the test cases on <a href="https://automationexercise.com/">automationexercise.com</a>.</p>
+  <p>This project contains software automation testing exercises inspired by the test cases on <a href="https://automationexercise.com/"> automationexercise.com</a>.</p>
 
   <h2>Project Details</h2>
 
   <ul>
-    <li>GitHub Repository: <a href="https://github.com/githsem/Selenium_Cucumber_AutomationExercise">https://github.com/githsem/Selenium_Cucumber_AutomationExercise</a></li>
+    <li>GitHub Repository: <a href="https://github.com/Shubhi143/Selenium_Cucumber_AutomationExercise">https://github.com/Shubhi143/Selenium_Cucumber_AutomationExercise</a></li>
     <li>Language: Java</li>
     <li>Frameworks and Libraries:
       <ul>
